@@ -1,0 +1,31 @@
+{
+  "id": "com.fenix100.espana.rd",
+  "version": "1.0.4",
+  "name": "Fénix 100 [ES] RD",
+  "description": "Catálogo Maestro Full HD: Thrillers, Culto y Documentales (Optimizado para Real-Debrid).",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "fenix_movies_list",
+      "name": "Películas [1080p]"
+    },
+    {
+      "type": "series",
+      "id": "fenix_series_list",
+      "name": "Series [1080p]"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "background": "https://i.imgur.com/pM0b2p2.jpeg",
+  "logo": "https://i.imgur.com/G23HCRG.png",
+  "contactEmail": "fenix1002026@sharklasers.com"
+}

@@ -1,0 +1,596 @@
+{
+  "metas": [
+    {
+      "id": "tt13875494",
+      "type": "series",
+      "name": "Tracker",
+      "poster": "https://images.metahub.space/poster/small/tt13875494/img"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt11198330/img"
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://images.metahub.space/poster/small/tt0452046/img"
+    },
+    {
+      "id": "tt3006802",
+      "type": "series",
+      "name": "Outlander",
+      "poster": "https://images.metahub.space/poster/small/tt3006802/img"
+    },
+    {
+      "id": "tt15232564",
+      "type": "series",
+      "name": "Love Story",
+      "poster": "https://images.metahub.space/poster/small/tt15232564/img"
+    },
+    {
+      "id": "tt1796960",
+      "type": "series",
+      "name": "Homeland",
+      "poster": "https://images.metahub.space/poster/small/tt1796960/img"
+    },
+    {
+      "id": "tt2802850",
+      "type": "series",
+      "name": "Fargo",
+      "poster": "https://images.metahub.space/poster/small/tt2802850/img"
+    },
+    {
+      "id": "tt13745850",
+      "type": "series",
+      "name": "The Last Thing He Told Me",
+      "poster": "https://images.metahub.space/poster/small/tt13745850/img"
+    },
+    {
+      "id": "tt5574490",
+      "type": "series",
+      "name": "Animal Kingdom",
+      "poster": "https://images.metahub.space/poster/small/tt5574490/img"
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://images.metahub.space/poster/small/tt12637874/img"
+    },
+    {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://images.metahub.space/poster/small/tt0141842/img"
+    },
+    {
+      "id": "tt3032476",
+      "type": "series",
+      "name": "Better Call Saul",
+      "poster": "https://images.metahub.space/poster/small/tt3032476/img"
+    },
+    {
+      "id": "tt0279600",
+      "type": "series",
+      "name": "Smallville",
+      "poster": "https://images.metahub.space/poster/small/tt0279600/img"
+    },
+    {
+      "id": "tt18923754",
+      "type": "series",
+      "name": "Daredevil: Born Again",
+      "poster": "https://images.metahub.space/poster/small/tt18923754/img"
+    },
+    {
+      "id": "tt14824792",
+      "type": "series",
+      "name": "Ted",
+      "poster": "https://images.metahub.space/poster/small/tt14824792/img"
+    },
+    {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://images.metahub.space/poster/small/tt35495073/img"
+    },
+    {
+      "id": "tt4158110",
+      "type": "series",
+      "name": "Mr. Robot",
+      "poster": "https://images.metahub.space/poster/small/tt4158110/img"
+    },
+    {
+      "id": "tt8740790",
+      "type": "series",
+      "name": "Bridgerton",
+      "poster": "https://images.metahub.space/poster/small/tt8740790/img"
+    },
+    {
+      "id": "tt21906554",
+      "type": "series",
+      "name": "The Hunting Party",
+      "poster": "https://images.metahub.space/poster/small/tt21906554/img"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://images.metahub.space/poster/small/tt5875444/img"
+    },
+    {
+      "id": "tt8599532",
+      "type": "series",
+      "name": "Young Sherlock",
+      "poster": "https://images.metahub.space/poster/small/tt8599532/img"
+    },
+    {
+      "id": "tt37041021",
+      "type": "series",
+      "name": "Radioactive Emergency",
+      "poster": "https://images.metahub.space/poster/small/tt37041021/img"
+    },
+    {
+      "id": "tt2442560",
+      "type": "series",
+      "name": "Peaky Blinders",
+      "poster": "https://images.metahub.space/poster/small/tt2442560/img"
+    },
+    {
+      "id": "tt2359704",
+      "type": "series",
+      "name": "JoJo's Bizarre Adventure",
+      "poster": "https://images.metahub.space/poster/small/tt2359704/img"
+    },
+    {
+      "id": "tt11318602",
+      "type": "series",
+      "name": "Devs",
+      "poster": "https://images.metahub.space/poster/small/tt11318602/img"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://images.metahub.space/poster/small/tt1190634/img"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://images.metahub.space/poster/small/tt1196946/img"
+    },
+    {
+      "id": "tt7488804",
+      "type": "series",
+      "name": "El cuento de la criada"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://images.metahub.space/poster/small/tt9288030/img"
+    },
+    {
+      "id": "tt33517752",
+      "type": "series",
+      "name": "The Beauty",
+      "poster": "https://images.metahub.space/poster/small/tt33517752/img"
+    },
+    {
+      "id": "tt11939520",
+      "type": "series",
+      "name": "True Detective"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt0388629/img"
+    },
+    {
+      "id": "tt32937780",
+      "type": "series",
+      "name": "Something Very Bad Is Going to Happen",
+      "poster": "https://images.metahub.space/poster/small/tt32937780/img"
+    },
+    {
+      "id": "tt4288182",
+      "type": "series",
+      "name": "Narcos",
+      "poster": "https://images.metahub.space/poster/small/tt4288182/img"
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://images.metahub.space/poster/small/tt2356777/img"
+    },
+    {
+      "id": "tt4574334",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://images.metahub.space/poster/small/tt4574334/img"
+    },
+    {
+      "id": "tt11794812",
+      "type": "series",
+      "name": "Cross",
+      "poster": "https://images.metahub.space/poster/small/tt11794812/img"
+    },
+    {
+      "id": "tt1740299",
+      "type": "series",
+      "name": "The Man in the High Castle",
+      "poster": "https://images.metahub.space/poster/small/tt1740299/img"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://images.metahub.space/poster/small/tt12343534/img"
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://images.metahub.space/poster/small/tt31938062/img"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "name": "Friends",
+      "poster": "https://images.metahub.space/poster/small/tt0108778/img"
+    },
+    {
+      "id": "tt27497448",
+      "type": "series",
+      "name": "A Knight of the Seven Kingdoms",
+      "poster": "https://images.metahub.space/poster/small/tt27497448/img"
+    },
+    {
+      "id": "tt7670386",
+      "type": "series",
+      "name": "The Boys"
+    },
+    {
+      "id": "tt13918776",
+      "type": "series",
+      "name": "The Night Agent",
+      "poster": "https://images.metahub.space/poster/small/tt13918776/img"
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "name": "El oso (The Bear)",
+      "poster": "https://images.metahub.space/poster/small/tt12590266/img"
+    },
+    {
+      "id": "tt39019156",
+      "type": "series",
+      "name": "Gone",
+      "poster": "https://images.metahub.space/poster/small/tt39019156/img"
+    },
+    {
+      "id": "tt8134186",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://images.metahub.space/poster/small/tt8134186/img"
+    },
+    {
+      "id": "tt7366338",
+      "type": "series",
+      "name": "Chernobyl",
+      "poster": "https://images.metahub.space/poster/small/tt7366338/img"
+    },
+    {
+      "id": "tt0303461",
+      "type": "series",
+      "name": "Firefly",
+      "poster": "https://images.metahub.space/poster/small/tt0303461/img"
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/small/tt0903747/img"
+    },
+    {
+      "id": "tt0285403",
+      "type": "series",
+      "name": "Scrubs",
+      "poster": "https://images.metahub.space/poster/small/tt0285403/img"
+    },
+    {
+      "id": "tt15677150",
+      "type": "series",
+      "name": "Shrinking",
+      "poster": "https://images.metahub.space/poster/small/tt15677150/img"
+    },
+    {
+      "id": "tt11818596",
+      "type": "series",
+      "name": "Maniac"
+    },
+    {
+      "id": "tt0364845",
+      "type": "series",
+      "name": "NCIS",
+      "poster": "https://images.metahub.space/poster/small/tt0364845/img"
+    },
+    {
+      "id": "tt0108757",
+      "type": "series",
+      "name": "ER",
+      "poster": "https://images.metahub.space/poster/small/tt0108757/img"
+    },
+    {
+      "id": "tt17220216",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters",
+      "poster": "https://images.metahub.space/poster/small/tt17220216/img"
+    },
+    {
+      "id": "tt1399664",
+      "type": "series",
+      "name": "The Night Manager",
+      "poster": "https://images.metahub.space/poster/small/tt1399664/img"
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "name": "The Office",
+      "poster": "https://images.metahub.space/poster/small/tt0386676/img"
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Y: Marshals",
+      "poster": "https://images.metahub.space/poster/small/tt36849871/img"
+    },
+    {
+      "id": "tt22074164",
+      "type": "series",
+      "name": "Jury Duty Presents: Company Retreat",
+      "poster": "https://images.metahub.space/poster/small/tt22074164/img"
+    },
+    {
+      "id": "tt33035373",
+      "type": "series",
+      "name": "His & Hers",
+      "poster": "https://images.metahub.space/poster/small/tt33035373/img"
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "Invincible",
+      "poster": "https://images.metahub.space/poster/small/tt6741278/img"
+    },
+    {
+      "id": "tt14671678",
+      "type": "series",
+      "name": "Deadloch",
+      "poster": "https://images.metahub.space/poster/small/tt14671678/img"
+    },
+    {
+      "id": "tt8163486",
+      "type": "series",
+      "name": "La casa de papel"
+    },
+    {
+      "id": "tt4685600",
+      "type": "series",
+      "name": "The Jinx"
+    },
+    {
+      "id": "tt4236770",
+      "type": "series",
+      "name": "Yellowstone",
+      "poster": "https://images.metahub.space/poster/small/tt4236770/img"
+    },
+    {
+      "id": "tt4299972",
+      "type": "series",
+      "name": "Mindhunter",
+      "poster": "https://images.metahub.space/poster/small/tt4299972/img"
+    },
+    {
+      "id": "tt0118276",
+      "type": "series",
+      "name": "Buffy the Vampire Slayer",
+      "poster": "https://images.metahub.space/poster/small/tt0118276/img"
+    },
+    {
+      "id": "tt7235466",
+      "type": "series",
+      "name": "9-1-1",
+      "poster": "https://images.metahub.space/poster/small/tt7235466/img"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/small/tt11280740/img"
+    },
+    {
+      "id": "tt14586350",
+      "type": "series",
+      "name": "Love & Death",
+      "poster": "https://images.metahub.space/poster/small/tt14586350/img"
+    },
+    {
+      "id": "tt35050741",
+      "type": "series",
+      "name": "Last One Laughing UK",
+      "poster": "https://images.metahub.space/poster/small/tt35050741/img"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://images.metahub.space/poster/small/tt10986410/img"
+    },
+    {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://images.metahub.space/poster/small/tt0306414/img"
+    },
+    {
+      "id": "tt27610198",
+      "type": "series",
+      "name": "The Amazing Digital Circus",
+      "poster": "https://images.metahub.space/poster/small/tt27610198/img"
+    },
+    {
+      "id": "tt13833978",
+      "type": "series",
+      "name": "The Lincoln Lawyer",
+      "poster": "https://images.metahub.space/poster/small/tt13833978/img"
+    },
+    {
+      "id": "tt37063558",
+      "type": "series",
+      "name": "RJ Decker",
+      "poster": "https://images.metahub.space/poster/small/tt37063558/img"
+    },
+    {
+      "id": "tt6847844",
+      "type": "series",
+      "name": "Years and Years"
+    },
+    {
+      "id": "tt14186672",
+      "type": "series",
+      "name": "Landman",
+      "poster": "https://images.metahub.space/poster/small/tt14186672/img"
+    },
+    {
+      "id": "tt5057370",
+      "type": "series",
+      "name": "Ozark"
+    },
+    {
+      "id": "tt15017118",
+      "type": "series",
+      "name": "Dark Winds",
+      "poster": "https://images.metahub.space/poster/small/tt15017118/img"
+    },
+    {
+      "id": "tt22091076",
+      "type": "series",
+      "name": "High Potential",
+      "poster": "https://images.metahub.space/poster/small/tt22091076/img"
+    },
+    {
+      "id": "tt5290382",
+      "type": "series",
+      "name": "Chernobyl",
+      "poster": "https://images.metahub.space/poster/small/tt5290382/img"
+    },
+    {
+      "id": "tt0475784",
+      "type": "series",
+      "name": "Westworld",
+      "poster": "https://images.metahub.space/poster/small/tt0475784/img"
+    },
+    {
+      "id": "tt37024136",
+      "type": "series",
+      "name": "Unfamiliar",
+      "poster": "https://images.metahub.space/poster/small/tt37024136/img"
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://images.metahub.space/poster/small/tt22202452/img"
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://images.metahub.space/poster/small/tt0944947/img"
+    },
+    {
+      "id": "tt14403178",
+      "type": "series",
+      "name": "El juego del calamar",
+      "poster": "https://images.metahub.space/poster/small/tt14403178/img"
+    },
+    {
+      "id": "tt1520211",
+      "type": "series",
+      "name": "The Walking Dead",
+      "poster": "https://images.metahub.space/poster/small/tt1520211/img"
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "From",
+      "poster": "https://images.metahub.space/poster/small/tt9813792/img"
+    },
+    {
+      "id": "tt34385331",
+      "type": "series",
+      "name": "DTF St. Louis",
+      "poster": "https://images.metahub.space/poster/small/tt34385331/img"
+    },
+    {
+      "id": "tt11737520",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://images.metahub.space/poster/small/tt11737520/img"
+    },
+    {
+      "id": "tt7660850",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://images.metahub.space/poster/small/tt7660850/img"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt1839578/img"
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "name": "House",
+      "poster": "https://images.metahub.space/poster/small/tt0412142/img"
+    },
+    {
+      "id": "tt7587890",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://images.metahub.space/poster/small/tt7587890/img"
+    },
+    {
+      "id": "tt32420734",
+      "type": "series",
+      "name": "Rooster",
+      "poster": "https://images.metahub.space/poster/small/tt32420734/img"
+    },
+    {
+      "id": "tt35707374",
+      "type": "series",
+      "name": "Memory of a Killer",
+      "poster": "https://images.metahub.space/poster/small/tt35707374/img"
+    },
+    {
+      "id": "tt27444205",
+      "type": "series",
+      "name": "Paradise",
+      "poster": "https://images.metahub.space/poster/small/tt27444205/img"
+    },
+    {
+      "id": "tt0460681",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://images.metahub.space/poster/small/tt0460681/img"
+    }
+  ]
+}
